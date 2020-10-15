@@ -1,0 +1,9 @@
+src
+typings
+node_modules
+.editorconfig
+.gitignore
+.git
+Dockerfile
+README.md
+tsconfig.json
